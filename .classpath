@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="Unit 4/|Unit 5/|Unit 6/|Inheritance/|logic/" kind="src" path=""/>
+	<classpathentry kind="src" path="Inheritance"/>
+	<classpathentry kind="src" path="logic"/>
+	<classpathentry kind="src" path="Unit 4"/>
+	<classpathentry kind="src" path="Unit 5"/>
+	<classpathentry kind="src" path="Unit 6"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
